@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: white;
+  background:#d2d9f9;
 }
 
 .todo-container {
@@ -37,7 +37,7 @@ button {
   padding: 12px 18px;
   border: none;
   border-radius: 10px;
-  background: #667eea;
+  background: #667eea;  
   color: white;
   cursor: pointer;
   transition: 0.3s;
